@@ -5,6 +5,7 @@ pis:
   - Felimon Gayanilo
 contributors:
   - Sandeep Jilla
+  - Flora Sauerbronn
 github: ioos/ioos-code-sprint/issues/45
 slack:
   - erddap
